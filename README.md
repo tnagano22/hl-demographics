@@ -11,5 +11,5 @@
 		- 2010: ACS
 	- The variables to extract in each dataset are: YEAR, DATANUM, SERIAL, HHWT, REGION, STATEFIP, COUNTY, METRO, METAREA (general), METAREAD (detailed), CITY, CITYPOP, CONSPUMA, CNTRY, GQ, NFAMS, MULTGEN (general), MULTGEND (detailed), PERNUM, PERWT, FAMSIZE, NCHILD, NCHLT5, FAMUNIT, ELDCH, YNGCH, NSIBS, MOMLOC, POPLOC, SUBFAM, RELATE (general), RELATED (detailed), SEX, AGE, MARST, HISPAN (general), HISPAND (detailed), BPL (general), BPLD (detailed), ANCESTR1 (general), ANCESTR1D (detailed), ANCESTR2 (general), ANCESTR2D (detailed), CITIZEN, YRIMMIG, YRSUSA1, YRSUSA2, LANGUAGE (general), LANGUAGED (detailed), SPEAKENG, RACESING (general), RACESINGD (detailed), EDUC (general), EDUCD (detailed), GRADEATT (general), GRADEATTD (detailed), OCC, IND, INCTOT, FTOTINC, POVERTY, OCCSCORE, and SEI
 	- Download the data as SPSS file (which can be read by R). The full data (about 2G-3G) will be extremely large and you won't be able to process them unless you have a very powerful computer. Use sampled/partial data with the "Customize Sample Size" fundation on IPUMS if necessary.
-	- ![IPUMS screenshot](https://github.com/tnagano22/hl-demographics/blob/images/IPUMSScreenshot.jpg?raw=true)
+	- ![IPUMS screenshot](https://github.com/tnagano22/hl-demographics/blob/main/images/IPUMSScreenshot.jpg?raw=true)
 ## Data 
