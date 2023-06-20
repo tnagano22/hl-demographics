@@ -1,6 +1,6 @@
-# Source codes for "Demographics of Adult Heritage Language Speakers in the United States: Differences by Region and Language and Their Implications" (The Modern Language Journal, vol. 99, No. 4)
+# R scripts to analyze heritage language spakers in the U.S.
 ## Backgrounds
-- Project: Demographics of Adult Heritage Language Speakers in the United States: Differences by Region and Language and Their Implications
+- Project: Source codes for "Demographics of Adult Heritage Language Speakers in the United States: Differences by Region and Language and Their Implications" (The Modern Language Journal, vol. 99, No. 4)
 - Author: Tomonori Nagano (tnagano@lagcc.cuny.edu)
 - Date: Monday, June 19, 2023
 - Script purpose: This R script will analyze the U.S. Census/ACE data and compute the number of adult heritage language speakers in the U.S. in different regions, at different time period (1980-2010), and by languages. See the following article for more information: Nagano, T. (2015). Demographics of Adult Heritage Language Speakers in the United States: Differences by Region and Language and their Implications. The Modern Language Journal, 99(4), 771-792.
