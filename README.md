@@ -14,4 +14,9 @@
 	- Screenshot of the IPUMS USA page ("Customize Sample Size")
 	![IPUMS screenshot](https://github.com/tnagano22/hl-demographics/blob/main/images/IPUMSScreenshot.jpg?raw=true)
 
-## Data 
+## Data
+- In the "data" folder, you can find sample data from the IPUMS USA page (0.3%-0.5% data). They are all in the SPSS data format (.sav). Unarchive them and change their filenames accordingly.
+- For a complete analysis, go to the IPUMS USA (https://usa.ipums.org/usa/) and download the whole data files from their website.
+
+## RCodes
+- Added the sample R code to analyze the IPUMS USA data (see the "data" folder for sample data)
