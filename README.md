@@ -69,8 +69,7 @@ Tomonori Nagano
 rm(list = ls())
 
 # set the current workd directly
-#setwd("~/Desktop")
-setwd("~/Dropbox/Documents/USB/600Research/618ResearchHeritageLanguage")
+setwd("~/Desktop")
 
 # loading required packages (install with install.packages("xxxx") if the package is not installed)
 library(ggplot2); library(gdata); library(xtable); library(gplots); library(foreign); library(ineq);
